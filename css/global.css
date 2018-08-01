@@ -45,3 +45,7 @@ body {
 .main-content {
   margin: 0 80px;
 }
+
+@@media screen and (max-width: 825px) {
+
+}
